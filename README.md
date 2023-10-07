@@ -1,6 +1,6 @@
 # Paper Scissors Rock
 
-![Screenshot of deployment](screenshot.png)
+![Screenshot of deployment](./assets/screenshot.png)
 
 ## Description
 
